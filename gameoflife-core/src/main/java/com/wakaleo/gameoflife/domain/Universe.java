@@ -97,4 +97,4 @@ public class Universe {
     public Cell getCellAt(final int row, final int column) {
         return currentGridContent.getCellAt(column, row);
     }
-
+}
