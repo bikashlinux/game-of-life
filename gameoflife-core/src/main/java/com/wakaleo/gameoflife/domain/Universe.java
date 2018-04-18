@@ -98,3 +98,4 @@ public class Universe {
         return currentGridContent.getCellAt(column, row);
     }
 }
+;
