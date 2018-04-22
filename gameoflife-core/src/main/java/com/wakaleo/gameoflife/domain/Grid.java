@@ -87,7 +87,7 @@ public class Grid {
 
     private int getMaxRow() {
         return cells.length - 1;
-    }
+        }
 
     private int getMaxColumn() {
         return cells[0].length - 1;
