@@ -30,7 +30,7 @@
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.5.3</version>
+                <version>3.5.1</version>
                 <configuration>
                     <maven.compiler.source>1.8.0</maven.compiler.source>
                     <maven.compiler.target>1.8.0</maven.compiler.target>
